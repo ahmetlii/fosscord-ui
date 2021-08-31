@@ -11,7 +11,20 @@
 	--text-danger: var(--danger);
 	--text-warning: var(--warning);
 }
-
+.light
+{//incomplete
+	--text-default-light: #060607
+	--text-strong: #fff;
+	--text-size: 16px;
+	--text-secondary: #b9bbbe;
+	--text-title: #8e9297;
+	--text-link: var(--primary);
+	--text-anchor: #ffffff;
+	--text-muted: #72767d;
+	--text-success: var(--success);
+	--text-danger: var(--danger);
+	--text-warning: var(--warning);
+}
 p {
 	margin: 0;
 }
